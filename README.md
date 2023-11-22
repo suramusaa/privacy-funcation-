@@ -18,7 +18,7 @@ is compared with the passwords in the database.
 
 **Usage:**
 
-```bash
+bash
 python check_show_pass [arguments].
 
 ## 2. privacy_data
